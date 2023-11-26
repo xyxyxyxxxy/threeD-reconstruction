@@ -12,9 +12,9 @@
 
 # paper
 ## Table of Content
-### 1.Fast reconstruction of general images
-### 2.Fast Reconstruction of Remote Sensing Images
-### 3.General Reconstruction of Remote Sensing Images
+#### 1.Fast reconstruction of general images
+#### 2.Fast Reconstruction of Remote Sensing Images
+#### 3.General Reconstruction of Remote Sensing Images
 
 ### 1.Fast reconstruction of general images
 |Date |	Keywords|	Institute|	Paper|	Publication|	code|
