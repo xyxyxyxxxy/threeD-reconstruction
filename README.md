@@ -11,6 +11,12 @@
 |8、单目立体三维重建技术及应用                       | 胡立华|[跳转](https://book.duxiu.com/bookDetail.jsp?dxNumber=000018968622&d=57B0C773BA174C13CA8739034FFFCD09&fenlei=1820060105&sw=%E5%8D%95%E7%9B%AE%E7%AB%8B%E4%BD%93%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%BA%94%E7%94%A8+%E8%83%A1%E7%AB%8B%E5%8D%8E>links.html "标题")`|
 
 # paper
+## Table of Content
+### Fast reconstruction of general images
+### Fast Reconstruction of Remote Sensing Images
+### General Reconstruction of Remote Sensing Images
+
+### Fast reconstruction of general images
 |Date |	Keywords|	Institute|	Paper|	Publication|	code|
 | :-:  | :-:     | :-:     | :-:   | :-:          | :-:  |
 |2023 |          |      |   [Strivec: Sparse Tri-Vector Radiance Fields](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/DB/C2/13/DBC2137E3A65428B00909389DF42C6B6.pdf>links.html "标题")`|   ICCV    |    https://github.com/Zerg-Overmind/Strivec|
