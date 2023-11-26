@@ -1,5 +1,5 @@
 # book
-|       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   title   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                   |author|link|
+|  title    |author|link|
 | :------------------------:                  |:-:   |:-:|
 |基于图像点特征的多视图三维重建              |康来  |[跳转]<https://book.duxiu.com/bookDetail.jsp?dxNumber=000015618915&d=A9BEC0107C1B0A868889870A884A6324&fenlei=181610010703&sw=%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%82%B9%E7%89%B9%E5%BE%81%E7%9A%84%E5%A4%9A%E8%A7%86%E5%9B%BE%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA+%E5%BA%B7%E6%9D%A5>|
 |基于地面激光雷达点云的中国古建筑正逆向三维重建技术| 张瑞菊|[跳转]<https://book.duxiu.com/bookDetail.jsp?dxNumber=000019485749&d=A1CB7198165AB13FDF22FB6B45627B0B&fenlei=1820060105&sw=%E5%9F%BA%E4%BA%8E%E5%9C%B0%E9%9D%A2%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E7%82%B9%E4%BA%91%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8F%A4%E5%BB%BA%E7%AD%91%E6%AD%A3%E9%80%86%E5%90%91%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA%E6%8A%80%E6%9C%AF+%E5%BC%A0%E7%91%9E%E8%8F%8A>|
