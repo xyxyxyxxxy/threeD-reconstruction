@@ -1,5 +1,5 @@
 # book
-|<span style="display:inline-block;width: 80px"> title </span>|   author     |        link          |
+| title                           |   author     |        link          |
 | :------------------------:      |    :-:      |         :-:          |
 |&nbsp; &nbsp; &nbsp; <br>基于图像点特征的多视图三维重建 &nbsp; &nbsp; &nbsp; &nbsp;|康来  |[跳转](https://https://book.duxiu.com/bookDetail.jsp?dxNumber=000015618915&d=A9BEC0107C1B0A868889870A884A6324&fenlei=181610010703&sw=%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%82%B9%E7%89%B9%E5%BE%81%E7%9A%84%E5%A4%9A%E8%A7%86%E5%9B%BE%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA+%E5%BA%B7%E6%9D%A5>links.html "标题")`|
 |基于地面激光雷达点云的中国古建筑正逆向三维重建技术| 张瑞菊|[跳转](https://book.duxiu.com/bookDetail.jsp?dxNumber=000019485749&d=A1CB7198165AB13FDF22FB6B45627B0B&fenlei=1820060105&sw=%E5%9F%BA%E4%BA%8E%E5%9C%B0%E9%9D%A2%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E7%82%B9%E4%BA%91%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8F%A4%E5%BB%BA%E7%AD%91%E6%AD%A3%E9%80%86%E5%90%91%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA%E6%8A%80%E6%9C%AF+%E5%BC%A0%E7%91%9E%E8%8F%8A>links.html "标题")`|
@@ -10,3 +10,5 @@
 |航空侦察图像三维重建理论与工程实现                  |王培元|[跳转](https://book.duxiu.com/bookDetail.jsp?dxNumber=000019592848&d=3C708E4118EC7637F3340C4C83D5DC51&fenlei=050505&sw=%E8%88%AA%E7%A9%BA%E4%BE%A6%E5%AF%9F%E5%9B%BE%E5%83%8F%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E7%8E%B0+%E7%8E%8B%E5%9F%B9%E5%85%83>links.html "标题")`|
 |8、单目立体三维重建技术及应用                       | 胡立华|[跳转](https://book.duxiu.com/bookDetail.jsp?dxNumber=000018968622&d=57B0C773BA174C13CA8739034FFFCD09&fenlei=1820060105&sw=%E5%8D%95%E7%9B%AE%E7%AB%8B%E4%BD%93%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%BA%94%E7%94%A8+%E8%83%A1%E7%AB%8B%E5%8D%8E>links.html "标题")`|
 
+# paper
+|Date |	Keywords|	Institute|	Paper|	Publication|	code|
