@@ -77,8 +77,7 @@
 |2022 |  CVPR    |         |         |       |       |[HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs](https://arxiv.org/pdf/2112.02789v3.pdf)|           |          |
 |2022 |  CVPR    |         |         |       |       |[NeuralHOFusion: Neural Volumetric Rendering under Human-object Interactions](https://arxiv.org/pdf/2202.12825v3.pdf)|           |          |
 |2022 |  CVPR    |         |         |       |       |[Structured Local Radiance Fields for Human Avatar Modeling](https://arxiv.org/pdf/2203.14478v1.pdf)|           |          |
-|2022 |  CVPR    |         |         |       |       |[
-Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis](https://arxiv.org/pdf/2201.01683v2.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis](https://arxiv.org/pdf/2201.01683v2.pdf)|         |         |
 |2022 |  CVPR    |         |         |       |       |[Efficient Geometry-aware 3D Generative Adversarial Networks](https://arxiv.org/pdf/2112.07945v2.pdf)|      https://github.com/NVlabs/eg3d     |          |
 |2022 |  CVPR    |         |         |       |       |[FENeRF: Face Editing in Neural Radiance Fields](https://arxiv.org/pdf/2111.15490v2.pdf)|      https://github.com/MrTornado24/FENeRF     |          |
 |2022 |  CVPR    |         |         |       |       |[GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation](https://arxiv.org/pdf/2112.08867v3.pdf)|           |          |
