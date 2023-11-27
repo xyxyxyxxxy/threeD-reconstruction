@@ -37,3 +37,5 @@
 ### <br>5.Others
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
 | :-:  | :-:     | :-:     | :-:     | :-:   | :-:   | :-:          | :-:  | :-:   |
+|2021 |  CVPR    |         |         |       |       |[pixelNeRF: Neural Radiance Fields from One or Few Images](https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_pixelNeRF_Neural_Radiance_Fields_From_One_or_Few_Images_CVPR_2021_paper.pdf)|      |      |
+|2021 |CVPR      |          |        |       |       |[IBRNet: Learning Multi-View Image-Based Rendering](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_IBRNet_Learning_Multi-View_Image-Based_Rendering_CVPR_2021_paper.pdf)|     |       |
