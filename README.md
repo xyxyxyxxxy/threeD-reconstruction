@@ -42,14 +42,56 @@
 |2021 |ICCV       |          |       |       |       |[MVSNeRF: Fast Generalizable Radiance Field Reconstructionfrom Multi-View Stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_MVSNeRF_Fast_Generalizable_Radiance_Field_Reconstruction_From_Multi-View_Stereo_ICCV_2021_paper.pdf)| https://github.com/apchenstu/mvsnerf  |      |
 |2021 |  CVPR    |         |         |       |       |[D-NeRF: Neural Radiance Fields for Dynamic Scenes](arxiv.org/pdf/2011.13961v1.pdf)| https://github.com/albertpumarola/D-NeRF|    |    |
 |2022 |  CVPR    |         |         |       |       |[AR-NeRF: Unsupervised Learning of Depth and Defocus Effects from Natural Images with Aperture Rendering Neural Radiance Fields](https://arxiv.org/pdf/2206.06100v1.pdf)|           |          |
-|2022 |  CVPR    |         |         |       |       |[]()|           |          |
-|2022 |  CVPR    |         |         |       |       |[]()|           |          |
-|2022 |  CVPR    |         |         |       |       |[]()|           |          |
-|2022 |  CVPR    |         |         |       |       |[]()|           |          |
-|2022 |  CVPR    |         |         |       |       |[]()|           |          |
-|2022 |  CVPR    |         |         |       |       |[]()|           |          |
-|2022 |  CVPR    |         |         |       |       |[]()|           |          |
-|2022 |  CVPR    |         |         |       |       |[]()|           |          |
-|2022 |  CVPR    |         |         |       |       |[]()|           |          |
+|2022 |  CVPR    |         |         |       |       |[Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations](https://arxiv.org/pdf/2207.01164v1.pdf)|      https://github.com/vita-group/aug-nerf     |          |
+|2022 |  CVPR    |         |         |       |       |[Deblur-NeRF: Neural Radiance Fields from Blurry Images](https://arxiv.org/pdf/2111.14292v2.pdf)|    https://github.com/limacv/Deblur-NeRF       |          |
+|2022 |  CVPR    |         |         |       |       |[DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://arxiv.org/pdf/2111.10427v2.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Hallucinated Neural Radiance Fields in the Wild](https://arxiv.org/pdf/2111.15246v3.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://arxiv.org/pdf/2111.14451v4.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://arxiv.org/pdf/2111.12077v3.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images](https://arxiv.org/pdf/2111.13679v1.pdf)|           |        |
+|2022 |  CVPR    |         |         |       |       |[NeRFReN: Neural Radiance Fields with Reflections](https://arxiv.org/pdf/2111.15234v2.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Neural Rays for Occlusion-aware Image-based Rendering](https://arxiv.org/pdf/2107.13421v2.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://arxiv.org/pdf/2112.03907v1.pdf)|           |        |
+|2022 |  CVPR    |         |         |       |       |[Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations](https://arxiv.org/pdf/2111.13152v3.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Dense Depth Priors for Neural Radiance Fields from Sparse Input Views](https://arxiv.org/pdf/2112.03288v2.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://arxiv.org/pdf/2107.02791v2.pdf)|     https://github.com/dunbar12138/DSNeRF      |          |
+|2022 |  CVPR    |         |         |       |       |[InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering](https://arxiv.org/pdf/2112.15399v2.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Ray Priors through Reprojection: Improving Neural Radiance Fields for Novel View Extrapolation](https://arxiv.org/pdf/2205.05922v1.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs](https://arxiv.org/pdf/2112.00724v1.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[GeoNeRF: Generalizing NeRF with Geometry Priors](https://arxiv.org/pdf/2111.13539v2.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Light Field Neural Rendering](https://arxiv.org/pdf/2112.09687v2.pdf)|      https://github.com/google-research/google-research/tree/master/light_field_neural_rendering     |          |
+|2022 |  CVPR    |         |         |       |       |[NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction](https://arxiv.org/pdf/2203.11283v1.pdf)|https://github.com/jetd1/NeRFusion|          |
+|2022 |  CVPR    |         |         |       |       |[NAN: Noise-Aware NeRFs for Burst-Denoising](https://arxiv.org/pdf/2204.04668v2.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Plenoxels: Radiance Fields without Neural Networks](https://arxiv.org/pdf/2112.05131v1.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/pdf/2111.11215v2.pdf)|https://paperswithcode.com/paper/direct-voxel-grid-optimization-super-fast|          |
+|2022 |  CVPR    |         |         |       |       |[EfficientNeRF Efficient Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_EfficientNeRF__Efficient_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|          |          |
+|2022 |  CVPR    |         |         |       |       |[Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time](https://arxiv.org/pdf/2202.08614v2.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/pdf/2201.05989v2.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Point-NeRF: Point-based Neural Radiance Fields](https://arxiv.org/pdf/2201.08845v7.pdf)|https://github.com/Xharlie/pointnerf|          |
+|2022 |  CVPR    |         |         |       |       |[Block-NeRF: Scalable Large Scene Neural View Synthesis](https://arxiv.org/pdf/2202.05263v1.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](https://arxiv.org/pdf/2112.10703v2.pdf)|https://github.com/cmusatyalab/mega-nerf |          |
+|2022 |  CVPR    |         |         |       |       |[Urban Radiance Fields](https://arxiv.org/pdf/2111.14643v1.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[BANMo: Building Animatable 3D Neural Models from Many Casual Videos](https://arxiv.org/pdf/2112.12761v3.pdf)|https://github.com/facebookresearch/banmo  |          |
+|2022 |  CVPR    |         |         |       |       |[DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Reconstruction and Rendering](https://arxiv.org/pdf/2106.03798v4.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video](https://arxiv.org/pdf/2201.04127v2.pdf)|https://github.com/chungyiweng/humannerf |          |
+|2022 |  CVPR    |         |         |       |       |[HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs](https://arxiv.org/pdf/2112.02789v3.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[NeuralHOFusion: Neural Volumetric Rendering under Human-object Interactions](https://arxiv.org/pdf/2202.12825v3.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Structured Local Radiance Fields for Human Avatar Modeling](https://arxiv.org/pdf/2203.14478v1.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[
+Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis](https://arxiv.org/pdf/2201.01683v2.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Efficient Geometry-aware 3D Generative Adversarial Networks](https://arxiv.org/pdf/2112.07945v2.pdf)|      https://github.com/NVlabs/eg3d     |          |
+|2022 |  CVPR    |         |         |       |       |[FENeRF: Face Editing in Neural Radiance Fields](https://arxiv.org/pdf/2111.15490v2.pdf)|      https://github.com/MrTornado24/FENeRF     |          |
+|2022 |  CVPR    |         |         |       |       |[GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation](https://arxiv.org/pdf/2112.08867v3.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[HeadNeRF: A Real-time NeRF-based Parametric Head Model](https://arxiv.org/pdf/2112.05637v3.pdf)|    https://github.com/crishy1995/headnerf       |          |
+|2022 |  CVPR    |         |         |       |       |[RigNeRF: Fully Controllable Neural 3D Portraits](https://arxiv.org/pdf/2206.06481v1.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation](https://arxiv.org/pdf/2112.11427v2.pdf)|    https://github.com/royorel/StyleSDF       |          |
+|2022 |  CVPR    |         |         |       |       |[CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/pdf/2112.05139v3.pdf)|    https://paperswithcode.com/paper/clip-nerf-text-and-image-driven-manipulation       |          |
+|2022 |  CVPR    |         |         |       |       |[CoNeRF: Controllable Neural Radiance Fields](https://arxiv.org/pdf/2112.01983v2.pdf)|     https://github.com/kacperkan/conerf      |   |
+|2022 |  CVPR    |         |         |       |       |[NeRF-Editing: Geometry Editing of Neural Radiance Fields](https://arxiv.org/pdf/2205.04978v1.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[LOLNeRF: Learn from One Look](https://arxiv.org/pdf/2111.09996v2.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Pix2NeRF: Unsupervised Conditional p-GAN for Single Image to Neural Radiance Fields Translation](https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_Pix2NeRF_Unsupervised_Conditional_p-GAN_for_Single_Image_to_Neural_Radiance_CVPR_2022_paper.pdf)|https://github.com/primecai/Pix2NeRF    |          |
+|2022 |  CVPR    |         |         |       |       |[StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning](https://arxiv.org/pdf/2205.12183v2.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[AutoRF: Learning 3D Object Radiance Fields from Single View Observations](https://arxiv.org/pdf/2204.03593v1.pdf)|           |          |
+|2022 |  CVPR    |         |         |       |       |[Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation](https://arxiv.org/pdf/2205.04334v1.pdf)|        |         |
 |2022 |  CVPR    |         |         |       |       |[]()|           |          |
 |2022 |  CVPR    |         |         |       |       |[]()|           |          |
