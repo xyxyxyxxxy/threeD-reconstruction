@@ -33,6 +33,8 @@
 ### <br>4.General Reconstruction of Remote Sensing Images
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
 | :-:  | :-:     | :-:     | :-:     | :-:   | :-:   | :-:          | :-:  | :-:   |
+|2023 |  CVPR    |         |         |       |       |[Multi-Date Earth Observation NeRF: The Detail Is in the Shadows](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/papers/Mari_Multi-Date_Earth_Observation_NeRF_The_Detail_Is_in_the_Shadows_CVPRW_2023_paper.pdf))|https://rogermm14.github.io/eonerf/|      |
+
 
 ### <br>5.Others
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
