@@ -22,6 +22,7 @@
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
 | :-:  | :-:     | :-:     | :-:     | :-:   | :-:   | :-:          | :-:  | :-:   |
 |2023 |  ICCV    |         |         |       |       | [Strivec: Sparse Tri-Vector Radiance Fields](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/DB/C2/13/DBC2137E3A65428B00909389DF42C6B6.pdf)|  https://github.com/Zerg-Overmind/Strivec|   |
+|2021 |  ICCV    |         |         |       |       |[Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://arxiv.org/pdf/2103.13415v3.pdf)|https://github.com/google/mipnerf |          |
 
 ### <br>2.General reconstruction of general images
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
@@ -55,7 +56,6 @@
 |2022 |  CVPR    |         |         |       |       |[DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://arxiv.org/pdf/2111.10427v2.pdf)|           |          |
 |2022 |  CVPR    |         |         |       |       |[Hallucinated Neural Radiance Fields in the Wild](https://arxiv.org/pdf/2111.15246v3.pdf)|           |          |
 |2022 |  CVPR    |         |         |       |       |[HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://arxiv.org/pdf/2111.14451v4.pdf)|           |          |
-|2021 |  ICCV    |         |         |       |       |[Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://arxiv.org/pdf/2103.13415v3.pdf)|https://github.com/google/mipnerf |          |
 |2022 |  CVPR    |         |         |       |       |[Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://arxiv.org/pdf/2111.12077v3.pdf)|           |          |
 |2022 |  CVPR    |         |         |       |       |[NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images](https://arxiv.org/pdf/2111.13679v1.pdf)|          |        |
 |2022 |  CVPR    |         |         |       |       |[NeRFReN: Neural Radiance Fields with Reflections](https://arxiv.org/pdf/2111.15234v2.pdf)|           |          |
