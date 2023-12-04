@@ -35,6 +35,10 @@
 | :-:  | :-:     | :-:     | :-:     | :-:   | :-:   | :-:          | :-:  | :-:   |
 |2023 |  CVPR    |         |         |       |       |[Multi-Date Earth Observation NeRF: The Detail Is in the Shadows](https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/papers/Mari_Multi-Date_Earth_Observation_NeRF_The_Detail_Is_in_the_Shadows_CVPRW_2023_paper.pdf))|https://rogermm14.github.io/eonerf/|      |
 
+### <br>5.多模态
+|Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
+| :-:  | :-:     | :-:     | :-:     | :-:   | :-:   | :-:          | :-:  | :-:   |
+|2022 |  CVPR    |         |         |       |       |[CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/pdf/2112.05139v3.pdf)|    https://paperswithcode.com/paper/clip-nerf-text-and-image-driven-manipulation       |          |
 
 ### <br>5.Others
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
@@ -86,7 +90,6 @@
 |2022 |  CVPR    |         |         |       |       |[HeadNeRF: A Real-time NeRF-based Parametric Head Model](https://arxiv.org/pdf/2112.05637v3.pdf)|    https://github.com/crishy1995/headnerf       |          |
 |2022 |  CVPR    |         |         |       |       |[RigNeRF: Fully Controllable Neural 3D Portraits](https://arxiv.org/pdf/2206.06481v1.pdf)|           |          |
 |2022 |  CVPR    |         |         |       |       |[StyleSDF: High-Resolution 3D-Consistent Image and Geometry Generation](https://arxiv.org/pdf/2112.11427v2.pdf)|    https://github.com/royorel/StyleSDF       |          |
-|2022 |  CVPR    |         |         |       |       |[CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/pdf/2112.05139v3.pdf)|    https://paperswithcode.com/paper/clip-nerf-text-and-image-driven-manipulation       |          |
 |2022 |  CVPR    |         |         |       |       |[CoNeRF: Controllable Neural Radiance Fields](https://arxiv.org/pdf/2112.01983v2.pdf)|     https://github.com/kacperkan/conerf      |   |
 |2022 |  CVPR    |         |         |       |       |[NeRF-Editing: Geometry Editing of Neural Radiance Fields](https://arxiv.org/pdf/2205.04978v1.pdf)|           |          |
 |2022 |  CVPR    |         |         |       |       |[LOLNeRF: Learn from One Look](https://arxiv.org/pdf/2111.09996v2.pdf)|           |          |
