@@ -23,6 +23,7 @@
 | :-:  | :-:     | :-:     | :-:     | :-:   | :-:   | :-:          | :-:  | :-:   |
 |2023 |  ICCV    |         |         |       |       | [Strivec: Sparse Tri-Vector Radiance Fields](https://cz5waila03cyo0tux1owpyofgoryroob.aminer.cn/DB/C2/13/DBC2137E3A65428B00909389DF42C6B6.pdf)|  https://github.com/Zerg-Overmind/Strivec|   |
 |2021 |  ICCV    |         |         |       |       |[Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://arxiv.org/pdf/2103.13415v3.pdf)|https://github.com/google/mipnerf |          |
+|2022 |  CVPR    |         |         |       |       |[Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/pdf/2201.05989v2.pdf)|          |          |
 
 ### <br>2.General reconstruction of general images
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
@@ -75,7 +76,6 @@
 |2022 |  CVPR    |         |         |       |       |[Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/pdf/2111.11215v2.pdf)|https://paperswithcode.com/paper/direct-voxel-grid-optimization-super-fast|          |
 |2022 |  CVPR    |         |         |       |       |[EfficientNeRF Efficient Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_EfficientNeRF__Efficient_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|          |          |
 |2022 |  CVPR    |         |         |       |       |[Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time](https://arxiv.org/pdf/2202.08614v2.pdf)|           |          |
-|2022 |  CVPR    |         |         |       |       |[Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/pdf/2201.05989v2.pdf)|           |          |
 |2022 |  CVPR    |         |         |       |       |[Point-NeRF: Point-based Neural Radiance Fields](https://arxiv.org/pdf/2201.08845v7.pdf)|https://github.com/Xharlie/pointnerf|          |
 |2022 |  CVPR    |         |         |       |       |[Block-NeRF: Scalable Large Scene Neural View Synthesis](https://arxiv.org/pdf/2202.05263v1.pdf)|           |          |
 |2022 |  CVPR    |         |         |       |       |[Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](https://arxiv.org/pdf/2112.10703v2.pdf)|https://github.com/cmusatyalab/mega-nerf |          |
