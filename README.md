@@ -55,11 +55,12 @@
 |2022 |  CVPR    |         |         |       |       |[DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://arxiv.org/pdf/2111.10427v2.pdf)|           |          |
 |2022 |  CVPR    |         |         |       |       |[Hallucinated Neural Radiance Fields in the Wild](https://arxiv.org/pdf/2111.15246v3.pdf)|           |          |
 |2022 |  CVPR    |         |         |       |       |[HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://arxiv.org/pdf/2111.14451v4.pdf)|           |          |
+|2021 |  ICCV    |         |         |       |       |[Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](arxiv.org/pdf/2103.13415v3.pdf)|https://github.com/google/mipnerf |          |
 |2022 |  CVPR    |         |         |       |       |[Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://arxiv.org/pdf/2111.12077v3.pdf)|           |          |
-|2022 |  CVPR    |         |         |       |       |[NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images](https://arxiv.org/pdf/2111.13679v1.pdf)|           |        |
+|2022 |  CVPR    |         |         |       |       |[NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images](https://arxiv.org/pdf/2111.13679v1.pdf)|          |        |
 |2022 |  CVPR    |         |         |       |       |[NeRFReN: Neural Radiance Fields with Reflections](https://arxiv.org/pdf/2111.15234v2.pdf)|           |          |
 |2022 |  CVPR    |         |         |       |       |[Neural Rays for Occlusion-aware Image-based Rendering](https://arxiv.org/pdf/2107.13421v2.pdf)|           |          |
-|2022 |  CVPR    |         |         |       |       |[Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://arxiv.org/pdf/2112.03907v1.pdf)|           |        |
+|2022 |  CVPR    |         |         |       |       |[Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://arxiv.org/pdf/2112.03907v1.pdf)|          |        |
 |2022 |  CVPR    |         |         |       |       |[Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations](https://arxiv.org/pdf/2111.13152v3.pdf)|           |          |
 |2022 |  CVPR    |         |         |       |       |[Dense Depth Priors for Neural Radiance Fields from Sparse Input Views](https://arxiv.org/pdf/2112.03288v2.pdf)|           |          |
 |2022 |  CVPR    |         |         |       |       |[Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://arxiv.org/pdf/2107.02791v2.pdf)|     https://github.com/dunbar12138/DSNeRF      |          |
