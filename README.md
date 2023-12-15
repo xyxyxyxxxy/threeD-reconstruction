@@ -35,6 +35,9 @@
 |2022 |  CVPR    |         |         |       |       |[EfficientNeRF Efficient Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_EfficientNeRF__Efficient_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|          |          |
 |2023 |  CVPR    |         |         |       |       |[Tensor4D : Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering](https://liuyebin.com/tensor4d/assets/main.pdf)|  https://github.com/DSaurus/Tensor4D  |          |
 |2023 |  CVPR    |         |         |       |       |[Canonical Factors for Hybrid Neural Fields](https://arxiv.org/pdf/2308.15461.pdf)|        |          |
+|2023 |         |         |         |       |       |[Compact 3D Gaussian Representation for Radiance Field](https://arxiv.org/pdf/2311.13681.pdf)| https://github.com/maincold2/Compact-3DGS |          |
+
+
 
 ### <br>2.General reconstruction of general images
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
