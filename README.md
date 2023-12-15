@@ -13,7 +13,7 @@
 # course
 | title                           |   author     |        link          |
 | :------------------------:      |    :-:      |         :-:          |
-| 计算机图形学      |    刘利刚      |         [:-:](https://www.bilibili.com/video/BV1iT4y1o7oM/?p=2&vd_source=933babf319aeca9b44d5998f845d2200)          |
+| 计算机图形学      |    刘利刚      |         https://www.bilibili.com/video/BV1iT4y1o7oM/?p=2&vd_source=933babf319aeca9b44d5998f845d2200          |
 
 # <br>paper
 ## Table of Content
