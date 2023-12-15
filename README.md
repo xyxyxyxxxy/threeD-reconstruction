@@ -33,6 +33,8 @@
 |2021 |  ICCV    |         |         |       |       |[Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://arxiv.org/pdf/2103.13415v3.pdf)|https://github.com/google/mipnerf |          |
 |2022 |  CVPR    |         |         |       |       |[Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/pdf/2201.05989v2.pdf)|          |          |
 |2022 |  CVPR    |         |         |       |       |[EfficientNeRF Efficient Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_EfficientNeRF__Efficient_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|          |          |
+|2023 |  CVPR    |         |         |       |       |[Tensor4D : Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering](https://liuyebin.com/tensor4d/assets/main.pdf)|  https://github.com/DSaurus/Tensor4D  |          |
+
 
 ### <br>2.General reconstruction of general images
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
