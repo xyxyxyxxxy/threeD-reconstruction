@@ -36,7 +36,7 @@
 |2023 |  CVPR    |         |         |       |       |[Tensor4D : Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering](https://liuyebin.com/tensor4d/assets/main.pdf)|  https://github.com/DSaurus/Tensor4D  |          |
 |2023 |  CVPR    |         |         |       |       |[Canonical Factors for Hybrid Neural Fields](https://arxiv.org/pdf/2308.15461.pdf)|        |          |
 |2023 |         |         |         |       |       |[Compact 3D Gaussian Representation for Radiance Field](https://arxiv.org/pdf/2311.13681.pdf)| https://github.com/maincold2/Compact-3DGS |          |
-
+|2023 |         |         |         |       |       |[Scaffold-GS](https://arxiv.org/pdf/2312.00109.pdf)| https://github.com/maincold2/Compact-3DGS |      https://github.com/city-super/Scaffold-GS    |
 
 
 ### <br>2.General reconstruction of general images
