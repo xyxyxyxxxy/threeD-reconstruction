@@ -14,7 +14,7 @@
 # course
 | title                           |   author     |        link          |
 | :------------------------:      |    :-:      |         :-:          |
-| 计算机图形学q  q    |    [刘利刚](http://staff.ustc.edu.cn/~lgliu/) |         https://www.bilibili.com/video/BV1iT4y1o7oM/?p=2&vd_source=933babf319aeca9b44d5998f845d2200          |
+| 计算机图形学   |    [刘利刚](http://staff.ustc.edu.cn/~lgliu/) |         https://www.bilibili.com/video/BV1iT4y1o7oM/?p=2&vd_source=933babf319aeca9b44d5998f845d2200          |
 | 计算机图形学      |    闫令琪      |         https://www.bilibili.com/video/BV1X7411F744/?p=5&vd_source=933babf319aeca9b44d5998f845d2200          |
 | 计算机视觉之三维重建（SFM和SLAM）      |    [鲁鹏](https://cv-xueba.club/pages/members/plu.html)      |        https://cv-xueba.club/pages/courses/cv_sfm.html          |
 | 《PyTorch深度学习实践》     |         |      https://www.bilibili.com/video/BV1Y7411d7Ys?vd_source=1d17713057e35649eadd3becdf71c89c   |
