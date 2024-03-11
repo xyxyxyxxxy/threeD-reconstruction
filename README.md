@@ -66,7 +66,7 @@
 ### <br>6.3D高斯
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
 | :-:  | :-:     | :-:     | :-:     | :-:   | :-:   | :-:          | :-:  | :-:   |
-|2022 |  CVPR    |         |         |       |       |[3D Gaussian Model for Animation and Texturing](https://arxiv.org/abs/2402.19441)|     |          |
+|2022 |  CVPR    |         |         |       |       |[3D Gaussian Model for Animation and Texturing]|(https://arxiv.org/abs/2402.19441)     |          |
 
 
 
