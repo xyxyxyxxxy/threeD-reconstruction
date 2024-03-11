@@ -28,6 +28,7 @@
 #### &emsp;&emsp;&emsp;&emsp;3.General Reconstruction of Remote Sensing Images  
 #### &emsp;&emsp;&emsp;&emsp;4.General Reconstruction of Remote Sensing Images
 #### &emsp;&emsp;&emsp;&emsp;5.多模态
+#### &emsp;&emsp;&emsp;&emsp;6.3D高斯
 
 ### <br>1.Fast reconstruction of general images
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
