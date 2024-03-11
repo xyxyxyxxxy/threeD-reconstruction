@@ -63,7 +63,17 @@
 | :-:  | :-:     | :-:     | :-:     | :-:   | :-:   | :-:          | :-:  | :-:   |
 |2022 |  CVPR    |         |         |       |       |[CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/pdf/2112.05139v3.pdf)|    https://paperswithcode.com/paper/clip-nerf-text-and-image-driven-manipulation       |          |
 
-### <br>5.Others
+### <br>6.3D高斯
+|Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
+| :-:  | :-:     | :-:     | :-:     | :-:   | :-:   | :-:          | :-:  | :-:   |
+|2022 |  CVPR    |         |         |       |       |[3D Gaussian Model for Animation and Texturing](https://arxiv.org/abs/2402.19441)|     |          |
+
+
+
+
+
+
+### <br>7.Others
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
 | :-:  | :-:     | :-:     | :-:     | :-:   | :-:   | :-:          | :-:  | :-:   |
 |2021 |  CVPR    |         |         |       |       |[pixelNeRF: Neural Radiance Fields from One or Few Images](https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_pixelNeRF_Neural_Radiance_Fields_From_One_or_Few_Images_CVPR_2021_paper.pdf)|      |      |
