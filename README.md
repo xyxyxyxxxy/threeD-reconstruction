@@ -74,8 +74,7 @@
 ### <br>7.NeRF编辑
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
 | :-:  | :-:     | :-:     | :-:     | :-:   | :-:   | :-:          | :-:  | :-:   |
-|2023 |  CVPR    |         |         |       |       |[Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://arxiv.org/abs/2303.12789)     |  https:
-//instruct-nerf2nerf.github.io   |    |     |
+|2023 |  CVPR    |         |         |       |       |[Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://arxiv.org/abs/2303.12789)     |  https://instruct-nerf2nerf.github.io   |    |     |
 
 ### <br>8.Others
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
