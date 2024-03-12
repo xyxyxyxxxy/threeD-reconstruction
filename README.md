@@ -67,8 +67,7 @@
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
 | :-:  | :-:     | :-:     | :-:     | :-:   | :-:   | :-:          | :-:  | :-:   |
 |2024 |  CVPR    |         |         |       |       |[3D Gaussian Model for Animation and Texturing](https://arxiv.org/abs/2402.19441)     |          |
-|2023 |  CVPR    |         |         |       |       |[Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing](https://nju-3dv.github.io/projects/Relightable3DGaussian/)    | https://nju- 3dv.github.
-io/projects/Relightable3DGaussian/.         |
+|2023 |  CVPR    |         |         |       |       |[Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing](https://nju-3dv.github.io/projects/Relightable3DGaussian/)    |    https://nju-3dv.github.io/projects/Relightable3DGaussian/    |
 
 
 
