@@ -29,6 +29,7 @@
 #### &emsp;&emsp;&emsp;&emsp;4.General Reconstruction of Remote Sensing Images
 #### &emsp;&emsp;&emsp;&emsp;5.多模态
 #### &emsp;&emsp;&emsp;&emsp;6.3D高斯
+#### &emsp;&emsp;&emsp;&emsp;7.NeRF编辑
 
 ### <br>1.Fast reconstruction of general images
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
@@ -70,7 +71,13 @@
 |2023 |  CVPR    |         |         |       |       |[Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing](https://nju-3dv.github.io/projects/Relightable3DGaussian/)    |    https://nju-3dv.github.io/projects/Relightable3DGaussian/    |
 |2024 |  CVPR    |         |         |       |       |[Compact 3D Gaussian Representation for Radiance Field](https://maincold2.github.io/c3dgs/)   |       |       |
 
-### <br>7.Others
+### <br>7.NeRF编辑
+|Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
+| :-:  | :-:     | :-:     | :-:     | :-:   | :-:   | :-:          | :-:  | :-:   |
+|2023 |  CVPR    |         |         |       |       |[Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://arxiv.org/abs/2303.12789)     |  https:
+//instruct-nerf2nerf.github.io   |    |     |
+
+### <br>8.Others
 |Date |Publication|	Keywords|Question|Method|Result  |	Paper       |	code| Status |
 | :-:  | :-:     | :-:     | :-:     | :-:   | :-:   | :-:          | :-:  | :-:   |
 |2021 |  CVPR    |         |         |       |       |[pixelNeRF: Neural Radiance Fields from One or Few Images](https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_pixelNeRF_Neural_Radiance_Fields_From_One_or_Few_Images_CVPR_2021_paper.pdf)|      |      |
